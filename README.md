@@ -3,7 +3,7 @@
 I'm Louis, a software engineer that likes to tinker and learn new technology.
 - 😄 Pronouns: He/Him/His
 
-- 💻 I’m currently working on Reactime, an open source tool for facilitating debugging and state management
+- 💻 I’m currently working on a Notion Integration 🛠
 - 🔭 I’m currently exploring Python, Django, Rust and GraphQL
 
 
