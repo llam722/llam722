@@ -4,7 +4,7 @@ I'm Louis, a software engineer that likes to tinker and learn new technology.
 - 😄 Pronouns: He/Him/His
 
 - 💻 I’m currently working on a Notion Integration 🛠
-- 🔭 I’m currently exploring Python, Django, Rust and GraphQL
+- 🔭 I’m currently exploring Python, Django + GraphQL
 
 
 - 👯 I’m looking to collaborate on anything that will take my curiosity further!
