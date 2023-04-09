@@ -1,15 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Louis 👋
 
-I'm Louis, a software engineer that likes to tinker and learn new technology.
+
 - 😄 Pronouns: He/Him/His
-
 - 💻 I’m currently working on a Notion Integration 🛠
 - 🔭 I’m currently exploring Python, Django + GraphQL
-
-
 - 👯 I’m looking to collaborate on anything that will take my curiosity further!
-- 📫 How to reach me: louislam7229@gmail.com
-
 - ⚡ Fun fact: I build custom liquid-cooled PCs!
 
 
