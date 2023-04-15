@@ -4,7 +4,7 @@
 - 😄 Pronouns: He/Him/His
 - 💻 I’m currently working on a serverless Notion Integration 🛠
 - 👯 I’m looking to collaborate on anything that will take my curiosity further!
-- ⚡ Fun fact: I build custom liquid-cooled PCs!
+- ⚡ Fun fact: I build custom liquid-cooled PCs with RGB for +50FPS 🙃!
 
 
 <!--
