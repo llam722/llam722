@@ -1,8 +1,8 @@
 ### 👋
 
 - 😄 Pronouns: He/Him/His
-- 💻 Workin'
-- 👯 Open to collaborate on interesting ideas
+- 💻 Tinkerin'
+- 🤝 Open to collab
 - ⚡  I build custom liquid-cooled PCs with RGB for +50FPS
 
 
