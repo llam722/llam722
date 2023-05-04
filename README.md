@@ -1,7 +1,9 @@
 ### 👋
 
+A curious tinkerer who loves to solve complex problems and create innovative solutions through software and technology.
+
 - 😄 Pronouns: He/Him/His
-- 💻 Tinkerin'
+- 💻 Always tinkerin'
 - 🤝 Open to collab
 - ⚡  I build custom liquid-cooled PCs with RGB for +50FPS
 
