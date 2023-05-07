@@ -4,8 +4,8 @@ A curious tinkerer who loves to solve complex problems and create innovative sol
 
 - 😄 Pronouns: He/Him/His
 - 💻 Always tinkerin'
-- 🤝 Open to collab
-- ⚡  I build custom liquid-cooled PCs with RGB for +50FPS
+- 🤝 Open to collaboration
+- ⚡  Custom liquid-cooled PCs hobbyist
 
 
 <!--
