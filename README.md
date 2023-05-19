@@ -1,10 +1,7 @@
 ### 👋
 
 A curious tinkerer who loves to solve complex problems and create innovative solutions through software and technology.
-
-- 😄 Pronouns: He/Him/His
 - 💻 Always tinkerin'
-- 🤝 Open to collaboration
 - ⚡  Custom liquid-cooled PCs hobbyist
 
 
