@@ -1,6 +1,5 @@
 ### 👋
 
-A curious tinkerer who loves to solve complex problems and create innovative solutions through software and technology.
 - 💻 Always tinkerin'
 - ⚡  Custom liquid-cooled PCs hobbyist
 
