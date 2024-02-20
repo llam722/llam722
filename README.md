@@ -1,7 +1,7 @@
 ### 
 
 <h1 align='left'>👋 Hi, I'm Louis!</h1>
-I'm Software engineer with a strong foundation in JavaScript, React and Node.js/Express, dedicated to building efficient, user-focused applications, constantly seeking opportunities for growth. <br/>
+I'm a software engineer with a strong foundation in JavaScript, React and Node.js/Express, dedicated to building efficient, user-focused applications, constantly seeking opportunities for growth. <br/>
 <br/>
 <h4>My passion for personal development extends beyond code, you can often find me..</h5>
 
