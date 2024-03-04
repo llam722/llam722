@@ -5,8 +5,8 @@ I'm a software engineer with a strong foundation in JavaScript, React and Node.j
 <br/>
 <h4>My passion for personal development extends beyond code, you can often find me..</h5>
 
-- 💻 Always tinkerin' with new tech - headphones, custom keyboards, mice, etc.
-- 🛠️ Builiding - custom liquid-cooled PCs, cars, and IKEA furniture
+- 💻 Always tinkerin' with new tech - audio, computer peripherals, gadgets (recently Apple Vision Pro)
+- 🛠️ Builiding - liquid-cooled PCs, cars, IKEA
 - 📚 Reading Books – Atomic Habits, Making It Stick
 
 <br/>
