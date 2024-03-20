@@ -22,7 +22,7 @@ I'm a software engineer with a strong foundation in JavaScript, React and Node.j
 [![My Skills](https://skillicons.dev/icons?i=nodejs,github,git,materialui,webpack,redux,postman,jest,postgres,tailwind,mongodb,aws,figma&theme=dark)](https://skillicons.dev)
 
 
-
+![](https://komarev.com/ghpvc/?username=llam722&abbreviated=true)
 <!--
 **llam722/llam722** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
