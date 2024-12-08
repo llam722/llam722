@@ -7,7 +7,6 @@ I'm a software engineer with a strong foundation in JavaScript, React and Node.j
 
 - 💻 Always tinkerin' with new tech - audio, computer peripherals, gadgets
 - 🛠️ Builiding - liquid-cooled PCs, cars, IKEA
-- 📚 Reading Books – Atomic Habits, Making It Stick
 
 <br/>
 
