@@ -13,7 +13,7 @@ I'm a software engineer with a strong foundation in JavaScript, React and Node.j
 
 <h5>Langauges and Frameworks:</h5>
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,html,css,vuejs,python,java,mysql,graphql,express&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,html,css,express&theme=dark)](https://skillicons.dev)
 
 <br/>
 
