@@ -5,8 +5,8 @@ I'm a software engineer with a strong foundation in TypeScript, React and Node.j
 <br/>
 <h4>My passion for personal development extends beyond code, you can often find me..</h5>
 
-- 💻 Always tinkerin' with new tech - audio, computer peripherals, gadgets
-- 🛠️ Builiding - liquid-cooled PCs, cars, IKEA
+- 💻 Always tinkerin' with new tech
+- 🛠️ Builiding - liquid-cooled PCs, cars, IKEA 😂
 
 <br/>
 
