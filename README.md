@@ -18,7 +18,7 @@ I'm a software engineer with a strong foundation in TypeScript, React and Node.j
 
 <h5>Technologies:</h5>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,github,git,materialui,webpack,redux,postman,jest,postgres,tailwind,mongodb,aws,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,webpack,postman,jest,postgres,tailwind,mongodb&theme=dark)](https://skillicons.dev)
 
 
 ![](https://komarev.com/ghpvc/?username=llam722&abbreviated=true)
