@@ -7,21 +7,7 @@ I'm a software engineer with a strong foundation in TypeScript, React and Node.j
 
 - 💻 Always tinkerin' with new tech
 - 🛠️ Builiding - liquid-cooled PCs, cars, IKEA 😂
-
-<br/>
-
-<h5>Langauges and Frameworks:</h5>
-
-[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,html,css,express&theme=dark)](https://skillicons.dev)
-
-<br/>
-
-<h5>Technologies:</h5>
-
-[![My Skills](https://skillicons.dev/icons?i=nodejs,webpack,postman,jest,postgres,tailwind,mongodb&theme=dark)](https://skillicons.dev)
-
-
-![](https://komarev.com/ghpvc/?username=llam722&abbreviated=true)
+- 
 <!--
 **llam722/llam722** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
